@@ -1,6 +1,6 @@
 # 💫 About Me
 
-**Gameplay Programmer focused on Unreal Engine (C++) with professional experience in Unity (C#).**
+**Gameplay Programmer focused on Unreal Engine (C++), with professional experience in Unity (C#).**
 
 I specialize in building core gameplay systems such as combat mechanics, player controllers, AI behavior, animation-driven interactions, and performance-aware gameplay logic. My work emphasizes clean, modular code that supports iteration, scalability, and strong collaboration between engineering and design.
 
