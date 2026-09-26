@@ -14,7 +14,7 @@ Alongside professional work, I actively develop Unreal Engine gameplay prototype
 - Combat systems, AI-driven gameplay, and real-time mechanics  
 - Studios that value clean code, strong engineering–design collaboration, and polished player experiences  
 
-🌍 **Open to international opportunities** (Japan, UK, USA)
+🌍 **Open to international opportunities**
 
 ### 🔗 Links
 - **GitHub:** [https://github.com/Sayan11071998  ](https://github.com/Sayan11071998)
